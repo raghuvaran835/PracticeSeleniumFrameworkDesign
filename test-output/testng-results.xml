@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-06T21:09:19 IST" name="Default suite" finished-at="2023-03-06T21:09:33 IST" duration-ms="14071">
+    <groups>
+    </groups>
+    <test started-at="2023-03-06T21:09:19 IST" name="Default test" finished-at="2023-03-06T21:09:33 IST" duration-ms="14071">
+      <class name="rahulshettyacademy.PracticeSeleniumgrameworkdesign.StandAloneTest">
+        <test-method is-config="true" signature="launchApplication()[pri:0, instance:rahulshettyacademy.PracticeSeleniumgrameworkdesign.StandAloneTest@4b0d79fc]" started-at="2023-03-06T21:09:19 IST" name="launchApplication" finished-at="2023-03-06T21:09:29 IST" duration-ms="9873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method signature="e2etest()[pri:0, instance:rahulshettyacademy.PracticeSeleniumgrameworkdesign.StandAloneTest@4b0d79fc]" started-at="2023-03-06T21:09:29 IST" name="e2etest" finished-at="2023-03-06T21:09:31 IST" duration-ms="2059" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e2etest -->
+        <test-method is-config="true" signature="closeApplication()[pri:0, instance:rahulshettyacademy.PracticeSeleniumgrameworkdesign.StandAloneTest@4b0d79fc]" started-at="2023-03-06T21:09:31 IST" name="closeApplication" finished-at="2023-03-06T21:09:33 IST" duration-ms="2105" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApplication -->
+      </class> <!-- rahulshettyacademy.PracticeSeleniumgrameworkdesign.StandAloneTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
